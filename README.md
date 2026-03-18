@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Sary 
+# 👋 Hi, I'm Sary Viafara
 
 Welcome to my GitHub profile.
 
