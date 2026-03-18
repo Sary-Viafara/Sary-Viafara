@@ -1,16 +1,53 @@
-## Hi there 👋
+
+# 👋 Hello there
+
+Welcome to my GitHub profile.
+
+---
+
+## 💻 About Me
+
+* 💡 Interested in software development and technology
+* 🚀 Always learning and exploring new tools
+* 🛠️ Building projects and improving skills
+* 🌱 Currently focusing on growth and best practices
+
+---
+
+## 🧰 Tech Stack
+
+* Languages: HTML, CSS, JavaScript (beginner)
+* Tools: Git, GitHub, VS Code
+* Currently learning: JavaScript 
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sary-Viafara\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sary-Viafara\&layout=compact)
+
+---
+
+## 🔥 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sary-Viafara)
+
+---
+
+## 📌 Featured Projects
+
+* Coming soon...
+---
+
+## 📫 Contact
+
+* Email: saryviafara@gmail.com
+
+---
+
+⭐ Thanks for visiting!
 
 <!--
-**Sary-Viafara/Sary-Viafara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sary-Viafara/Sary-Viafara** 
